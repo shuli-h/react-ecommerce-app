@@ -1,4 +1,4 @@
-# React Final Project
+# E-Commerce Web Application
 
 This project is an **e-Commerce Web Application** built with **React, Redux, Vite, and Firebase**.  
 It includes two main modes:
